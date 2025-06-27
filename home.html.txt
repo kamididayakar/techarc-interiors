@@ -53,22 +53,22 @@
 <section id="testimonials">
 <h2>What Clients Say</h2>
 <blockquote>
-“Tech Arc Interiors turned our old house into a dream home. Fantastic work!” — Priya R.
+“Tech Arc Interiors turned our old house into a dream home. Fantastic work!” — daya.
 </blockquote>
 <blockquote>
-“Professional, punctual, and perfect. Highly recommend them for office interiors.” — Arvind K.
+“Professional, punctual, and perfect. Highly recommend them for office interiors.” —  Kamidi.
 </blockquote>
 </section>
 
 <section id="contact">
 <h2>Contact Us</h2>
 <form>
-<input type="text" placeholder="Your Name" required/>
-<input type="email" placeholder="Your Email" required/>
+<input type="text" placeholder="Tech Arc Interiors" required/>
+<input type="email" placeholder="TechArcInteriors@gmail.com" required/>
 <textarea placeholder="Your Message" required></textarea>
 <button type="submit">Send Message</button>
 </form>
-<p>Email: contact@techarcinteriors.com | Phone: +91-XXXXXXXXXX</p>
+<p>Email: contact@techarcinteriors.com | Phone: +91-7995424818</p>
 </section>
 
 <footer>
